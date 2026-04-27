@@ -30,6 +30,15 @@ Identify the attacker and analyze malicious activity on a compromised web server
 
 ---
 
+## 🧠 MITRE ATT&CK Mapping
+- TA0001 : Initial Access
+- TA0002 : Execution
+- TA0011 : Command and Control
+- T1110 : Brute Force
+- T1565.001 : Stored Data Manipulation
+
+---
+
 ## ⚠️ Indicators of Compromise (IOC)
 - IP: 23.158.56.196
 - Malicious file: NSt8bHTg.zip
