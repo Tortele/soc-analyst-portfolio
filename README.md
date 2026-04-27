@@ -20,3 +20,11 @@ Currently focusing on Blue Team skills, including:
 - IOC identification
 
 👉 [View investigation](./investigations/web-server-compromise)
+
+### 🔹 AWS Cloud Compromise (CloudTrail Analysis)
+- Detection of brute force activity on AWS account
+- Investigation of S3 data access and exfiltration
+- Identification of misconfigured public bucket
+- Persistence through creation of admin user
+
+👉 [View investigation](./investigations/aws-cloud-compromise)
