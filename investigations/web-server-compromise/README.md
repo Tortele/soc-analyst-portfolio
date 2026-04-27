@@ -56,7 +56,7 @@ Attacker exploited a critical vulnerability to gain remote access, establish per
 - Block attacker IP
 - Monitor server logs
 
-## Screenshots
+## 📸 Evidence (Screenshots / Queries)
 Credentials created by the attacker (c91oyemw:CL5vzdwLuK)
 <img width="1281" height="835" alt="image" src="https://github.com/user-attachments/assets/044f22e6-9758-474b-8778-ad186de37508" />
 
