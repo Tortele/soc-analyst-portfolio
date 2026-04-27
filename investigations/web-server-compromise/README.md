@@ -46,3 +46,24 @@ Attacker exploited a critical vulnerability to gain remote access, establish per
 - Patch the vulnerability
 - Block attacker IP
 - Monitor server logs
+
+## Screenshots
+Credentials created by the attacker (c91oyemw:CL5vzdwLuK)
+<img width="1281" height="835" alt="image" src="https://github.com/user-attachments/assets/044f22e6-9758-474b-8778-ad186de37508" />
+
+Zip uploaded for the reverse shell (NSt8bHTg.zip)
+<img width="1261" height="375" alt="image" src="https://github.com/user-attachments/assets/5687a10f-fbd5-4547-8e0e-472ea049dadf" />
+
+Creation of the infected plugin
+<img width="1290" height="47" alt="image" src="https://github.com/user-attachments/assets/46a10cfc-892d-47ed-a41b-05005ce968bc" />
+
+Credentials added in the file Creds.txt (a1l4m:youarecompromised)
+<img width="1357" height="541" alt="image" src="https://github.com/user-attachments/assets/026fa685-170c-416e-94f3-0165270a9016" />
+
+The attacker tries to evade from the docker (docker run --rm -it -v /:/host ubuntu chroot /host)
+<img width="1456" height="512" alt="image" src="https://github.com/user-attachments/assets/dc4b845b-9c54-490b-ba33-18ad60202f67" />
+
+
+
+
+
