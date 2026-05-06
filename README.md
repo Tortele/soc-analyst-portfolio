@@ -36,3 +36,10 @@ Currently focusing on Blue Team skills, including:
 - Extraction of attacker infrastructure (IP address)
 
 👉 [View investigation](./investigations/redline-malware-forensics-investigation)
+
+### 🔹 IceID Malware Investigation (Threat Intelligence)
+- Analysis of malware delivery via malicious GIF and Excel macros
+- Identification of IceID banking trojan and associated infrastructure
+- Investigation of domain reputation and payload distribution
+
+👉 [View investigation](./investigations/iceid-malware-investigation)
