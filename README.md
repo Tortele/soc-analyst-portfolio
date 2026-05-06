@@ -28,3 +28,11 @@ Currently focusing on Blue Team skills, including:
 - Persistence through creation of admin user
 
 👉 [View investigation](./investigations/aws-cloud-compromise)
+
+### 🔹 RedLine Malware Investigation (DFIR / Memory Analysis)
+- Detection of injected malicious process (oneetx.exe)
+- Analysis of process tree and memory artifacts using Volatility
+- Identification of C2 activity via VPN tunneling
+- Extraction of attacker infrastructure (IP address)
+
+👉 [View investigation](./investigations/redline-malware-forensics-investigation)
