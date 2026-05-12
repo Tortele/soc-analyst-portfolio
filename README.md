@@ -43,3 +43,10 @@ Currently focusing on Blue Team skills, including:
 - Investigation of domain reputation and payload distribution
 
 👉 [View investigation](./investigations/iceid-malware-investigation)
+
+### 🔹 REvil Ransomware Investigation (DFIR / Threat Analysis)
+- Investigation of a REvil ransomware infection using Splunk and threat intelligence tools
+- Detection of obfuscated PowerShell activity and Shadow Copy deletion attempts
+- Identification of ransomware infrastructure, malicious payload, and IOC extraction
+
+👉 [View investigation](./investigations/revil-ransomware-investigation)
